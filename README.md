@@ -1,4 +1,4 @@
-ML_Spring_2020          
+#ML_Spring_2020          
 This is a tutorial for ML beginner    
 The tutorial is from "臺灣大學李宏毅教授"
 由於本人沒有高效能 GPU 與強大的 RAM，因此目前都使用 Google colab 作為協助工具，檔案為 .ipynb，希望之後可以將 .py push 上來~~       
