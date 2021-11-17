@@ -1,5 +1,5 @@
 # ML_Spring_2020      
-This is a tutorial for **"Machine Learning (ML), Spring 2020"**
+This is a tutorial about **"Machine Learning (ML), Spring 2020"**
 
 The tutorial is from *Prof. Hung-Yi Lee* at National Taiwan University (NTU) for ML beginners     
       
